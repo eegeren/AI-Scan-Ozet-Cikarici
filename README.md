@@ -21,8 +21,10 @@ Uygulama, Vision framework'ü ile OCR (optik karakter tanıma) yapar ve ardında
 
 ## 📸 Ekran Görüntüleri
 
-### 📸 Tarama Ekranı
-<img src="Screenshots/özet.png" width="300" />
+### 📸 Özet Ekranı
+<img src="Screenshots/ozet.png" width="300" />
+
+### 📸 Tarama Seçenekleri Ekranı
 <img src="screenshots/secenekler.png" width="300" />
 
 
