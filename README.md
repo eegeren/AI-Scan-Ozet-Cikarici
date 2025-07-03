@@ -12,7 +12,6 @@ Uygulama, Vision framework'ü ile OCR (optik karakter tanıma) yapar ve ardında
 - 🤖 OCR (Optik Karakter Tanıma) ile metin çıkarma
 - 🧠 Yapay zeka destekli özet oluşturma
 - 🗂 Son taranan belgeyi saklama ve geçmiş görüntüleme
-- 🌍 TR / EN dil desteği (otomatik)
 - 🧾 Kopyala, paylaş, yeniden özetle butonları
 - 🎯 Temiz, modern ve sade kullanıcı arayüzü
 - 💾 UserDefaults ile son özetin kalıcı saklanması
@@ -22,7 +21,7 @@ Uygulama, Vision framework'ü ile OCR (optik karakter tanıma) yapar ve ardında
 ## 📸 Ekran Görüntüleri
 
 ### 📸 Özet Ekranı
-<img src="Screenshots/ozet.png" width="300" />
+<img src="screenshots/ozet.png" width="300" />
 
 ### 📸 Tarama Seçenekleri Ekranı
 <img src="screenshots/secenekler.png" width="300" />
